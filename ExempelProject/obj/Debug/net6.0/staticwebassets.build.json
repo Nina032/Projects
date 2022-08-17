@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+puzYKq03vBucFEjR1agUZ8TFi3ZKHR8pYVnSgoMnJ8=",
+  "Hash": "78o4Hrq6UmgBBbYhwzO/4iJZVzUac6IqVPHksZX9zog=",
   "Source": "ExempelProject",
   "BasePath": "_content/ExempelProject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ExempelProject\\wwwroot",
       "Source": "ExempelProject",
-      "ContentRoot": "E:\\webb\\Projects\\ExempelProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Nina\\Examples\\ExempelProject\\wwwroot\\",
       "BasePath": "_content/ExempelProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\webb\\Projects\\ExempelProject\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Nina\\Examples\\ExempelProject\\wwwroot\\index.html",
       "SourceId": "ExempelProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\webb\\Projects\\ExempelProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Nina\\Examples\\ExempelProject\\wwwroot\\",
       "BasePath": "_content/ExempelProject",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "E:\\webb\\Projects\\ExempelProject\\wwwroot\\js\\index.js",
+      "Identity": "C:\\Users\\Nina\\Examples\\ExempelProject\\wwwroot\\js\\index.js",
       "SourceId": "ExempelProject",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\webb\\Projects\\ExempelProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Nina\\Examples\\ExempelProject\\wwwroot\\",
       "BasePath": "_content/ExempelProject",
       "RelativePath": "js/index.js",
       "AssetKind": "All",
