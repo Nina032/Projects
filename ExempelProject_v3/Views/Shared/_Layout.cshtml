@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Artsy bits: @ViewBag.Title </title>
+    <link href="~/css/site.css" rel="stylesheet" />
+</head>
+<body>
+    <header>Welcome to our store</header>
+    <menu>
+        <ul>
+            <li><a asp-controller="App" asp-action="Index">Home</a></li>
+            <li><a asp-controller="App" asp-action="Contact">Contact</a></li>
+            <li><a asp-controller="App" asp-action="About">About</a></li>
+        </ul>
+    </menu>
+    <section>
+        <h1>@ViewBag.Title</h1>
+        @RenderBody()
+    </section>
+    
+    <p>This is a website for art store...</p>
+    <footer>Copyright 2022 Artsy bits</footer>
+    
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/index.js"></script>
+</body>
+</html>
