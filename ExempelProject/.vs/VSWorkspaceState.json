@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\wwwroot",
+    "\\wwwroot\\js"
   ],
-  "SelectedNode": "\\ExempelProject.sln",
+  "SelectedNode": "\\wwwroot",
   "PreviewInSolutionExplorer": false
 }
